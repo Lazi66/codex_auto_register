@@ -1,0 +1,19 @@
+{
+    "total_accounts": 10,
+    "concurrent_workers": 1,
+    "headless": false,
+    "proxy": "http://localhost:49866",
+    "duckmail_api_base": "https://api.duckmail.sbs",
+    "duckmail_bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiY2M4YzJjNGQ3NGE0OTg5Yjg3ZjBlZWM0M2QxNmVjNWEiLCJhZGRyZXNzIjoiY2hhb3JlbnFpYW5nQGJhbGR1ci5lZHUua2ciLCJhdXRoX3R5cGUiOiJlbWFpbCIsImV4cCI6MTgwNTEyMjIzNywiaWF0IjoxNzczNTg2MjM3fQ.towNY-WZteQZ-2YZvQm88nuJBVe2nuGgWjzwnVMpDdI",
+    "duckmail_api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiY2M4YzJjNGQ3NGE0OTg5Yjg3ZjBlZWM0M2QxNmVjNWEiLCJhZGRyZXNzIjoiY2hhb3JlbnFpYW5nQGJhbGR1ci5lZHUua2ciLCJhdXRoX3R5cGUiOiJlbWFpbCIsImV4cCI6MTgwNTEyMjIzNywiaWF0IjoxNzczNTg2MjM3fQ.towNY-WZteQZ-2YZvQm88nuJBVe2nuGgWjzwnVMpDdI",
+    "oauth_issuer": "https://auth.openai.com",
+    "oauth_client_id": "app_EMoamEEZ73f0CkXaXp7hrann",
+    "oauth_redirect_uri": "http://localhost:1455/auth/callback",
+    "upload_api_url": "http://127.0.0.1:8317/v1/management/auth-files",
+    "upload_api_token": "chaorenqiang",
+    "accounts_file": "accounts.txt",
+    "csv_file": "registered_accounts.csv",
+    "ak_file": "ak.txt",
+    "rk_file": "rk.txt",
+    "token_json_dir": "codex_accounts_tokens"
+}

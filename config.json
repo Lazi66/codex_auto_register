@@ -1,0 +1,17 @@
+{
+    "total_accounts": 3,
+    "duckmail_api_base": "https://api.duckmail.sbs",
+    "duckmail_bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiY2M4YzJjNGQ3NGE0OTg5Yjg3ZjBlZWM0M2QxNmVjNWEiLCJhZGRyZXNzIjoiY2hhb3JlbnFpYW5nQGJhbGR1ci5lZHUua2ciLCJhdXRoX3R5cGUiOiJlbWFpbCIsImV4cCI6MTgwNTEyMjIzNywiaWF0IjoxNzczNTg2MjM3fQ.towNY-WZteQZ-2YZvQm88nuJBVe2nuGgWjzwnVMpDdI",
+    "proxy": "http://127.0.0.1:49866",
+    "output_file": "registered_accounts.txt",
+    "enable_oauth": true,
+    "oauth_required": true,
+    "oauth_issuer": "https://auth.openai.com",
+    "oauth_client_id": "app_EMoamEEZ73f0CkXaXp7hrann",
+    "oauth_redirect_uri": "http://localhost:1455/auth/callback",
+    "ak_file": "ak.txt",
+    "rk_file": "rk.txt",
+    "token_json_dir": "codex_tokens",
+    "upload_api_url": "http://127.0.0.1:8317/v1/accounts/upload",
+    "upload_api_token": "chaorenqiang"
+}
